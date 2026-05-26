@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorpelete",
+        "uuid": 8413142,
+        "checksum": "ihyvr"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
